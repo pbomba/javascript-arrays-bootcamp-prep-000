@@ -42,5 +42,5 @@ removeElementFromBeginningOfArray(array){
 }
 
 destructivelyRemoveElementFromEndOfArray(array){
-  
+  array = array
 }

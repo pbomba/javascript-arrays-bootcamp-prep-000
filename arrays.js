@@ -19,4 +19,6 @@ destructivelyAddElementToBeginningOfArray(array, element){
 
 addElementToEndOfArray(array, element){
   newArray = array.push(element);
-} 
+  return newArray;
+}
+

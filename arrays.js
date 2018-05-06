@@ -22,12 +22,12 @@ function addElementToEndOfArray(array, element){
   arrayB.push(element);
   return arrayB;
 }
-/*
+
 function destructivelyAddElementToEndOfArray(array, element){
-  array = array.push(element);
+  array.push(element);
   return array;
 }
-
+/*
 function accessElementInArray(array, index){
   console.log(array[index]);
 }

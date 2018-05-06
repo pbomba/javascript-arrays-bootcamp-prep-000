@@ -29,14 +29,15 @@ function destructivelyAddElementToEndOfArray(array, element){
 }
 
 function accessElementInArray(array, index){
-  array[index];
-}
-/*
-function estructivelyRemoveElementFromBeginningOfArray(array){
+  return array[index];
+  }
+
+
+function destructivelyRemoveElementFromBeginningOfArray(array){
   array.slice(1);
   return array;
 }
-
+/*
 function removeElementFromBeginningOfArray(array){
   array = array.slice(1);
   return array;

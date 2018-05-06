@@ -32,5 +32,5 @@ accessElementInArray(array, index){
 }
 
 destructivelyRemoveElementFromBeginningOfArray(array){
-  
+  array.slice
 }

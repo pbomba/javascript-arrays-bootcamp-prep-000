@@ -31,3 +31,6 @@ accessElementInArray(array, index){
   console.log(array[index]);
 }
 
+destructivelyRemoveElementFromBeginningOfArray(array){
+  
+}

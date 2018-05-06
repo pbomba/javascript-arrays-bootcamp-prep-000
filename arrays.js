@@ -22,3 +22,8 @@ addElementToEndOfArray(array, element){
   return newArray;
 }
 
+destructivelyAddElementToEndOfArray(array, element){
+  array = array.push(element);
+  return array;
+}
+

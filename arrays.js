@@ -5,12 +5,12 @@ var chocolateBars = ['snickers',
 ];
 
 var newArray;
-/*
+
 addElementToBeginningOfArray(array, element){
   newArray = array.unshift(element);
   return newArray;
 } 
-
+/*
 destructivelyAddElementToBeginningOfArray(Array, element){
   newArray = ...Array;
   return newArray;

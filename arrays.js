@@ -12,8 +12,8 @@ addElementToBeginningOfArray(array, element){
 }
 
 /*
-destructivelyAddElementToBeginningOfArray(Array, element){
-  newArray = ...Array;
+destructivelyAddElementToBeginningOfArray(array, element){
+  array = ...Array;
   return newArray;
 }
 */

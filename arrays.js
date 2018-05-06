@@ -15,7 +15,7 @@ function destructivelyAddElementToBeginningOfArray(array, element){
   array = ...array;
   return array;
 }
-
+/*
 function addElementToEndOfArray(array, element){
   array = array.push(element);
   return array;
@@ -50,3 +50,4 @@ function removeElementFromEndOfArray(array){
   return array;
 }
 
+*/

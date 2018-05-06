@@ -17,3 +17,6 @@ destructivelyAddElementToBeginningOfArray(array, element){
   return array;
 }
 
+addElementToEndOfArray(array, element){
+  newArray = 
+} 

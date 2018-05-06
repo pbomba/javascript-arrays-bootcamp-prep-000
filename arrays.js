@@ -42,5 +42,5 @@ removeElementFromBeginningOfArray(array){
 }
 
 destructivelyRemoveElementFromEndOfArray(array){
-  array = array
+  array = array.slice(0, array.length -1)
 }

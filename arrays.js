@@ -27,3 +27,6 @@ destructivelyAddElementToEndOfArray(array, element){
   return array;
 }
 
+accessElementInArray(array, index){
+  
+}

@@ -8,15 +8,16 @@ var newArray = chocolateBars;
 
 function addElementToBeginningOfArray(array, element){
   var arrayB = array.slice(0);
+  arrayB.unshift(element);
   return arrayB;
 }
 
-
+/*
 function destructivelyAddElementToBeginningOfArray(array, element){
   array.unshift(element);
   return array;
 }
-/*
+
 function addElementToEndOfArray(array, element){
   array = array.push(element);
   return array;

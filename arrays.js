@@ -5,7 +5,7 @@ var chocolateBars = ['snickers',
 ];
 
 var newArray = chocolateBars;
-
+/*
 addElementToBeginningOfArray(array, element){
   newArray = array.unshift(element);
   return newArray;
@@ -50,3 +50,5 @@ removeElementFromEndOfArray(array){
   newArray = array.slice(0, array.length -1);
   return newArray;
 }
+
+*/
